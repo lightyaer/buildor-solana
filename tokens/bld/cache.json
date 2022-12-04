@@ -1,0 +1,18 @@
+[
+  {
+    "name": "CREATE TOKEN",
+    "mint": "2YihLZsccFBTzb7HChDQSJ4XqqmrnXgdu3vavrLLAW18",
+    "imageUri": "https://arweave.net/VzVkHjKWVlU_3hWM6FpsIgT_9nQ4IMDWe3ilOV10HrQ",
+    "metadataUri": "https://arweave.net/YZiihYcy7ogfxJP1e6Wq45h8gThF8OdAAjYkW0_A_x8",
+    "tokenMetadata": "DBrtnMRaQuaeQKHx6cBFrPBjuanWvKv7SXTXiUiuaPor",
+    "metadataTransaction": "3RTvYuYPjXtzXWxnhsz1ux2U1zmUTLv5XJM3ZmwrFxR6GaTphWkbjtHYi46ZUNN44yF5udXTHmufYnR9qAYX8hSa"
+  },
+  {
+    "name": "GET OR CREATE TOKEN ACCOUNT",
+    "tokenAccountAddress": "691U8mdtiPYyazdHkssh9gtwU4UNQHm9a9EsCJvQBPc3"
+  },
+  {
+    "name": "MINT TOKENS",
+    "metadataTransaction": "4CK7xdeC6T7jogiy3EKY5rjKw2ULAzx4F4cwyioxVxdfsde8t6CYKg7bCigTPGmBj8tpFoxy6JBsZN2xnZLRsWnN"
+  }
+]

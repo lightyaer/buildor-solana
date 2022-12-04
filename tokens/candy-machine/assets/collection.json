@@ -1,0 +1,16 @@
+{
+  "name": "Buildor Collection",
+  "symbol": "BLD",
+  "description": "Collection of 5 construction stages on the blockchain.",
+  "image": "collection.gif",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "video"
+  }
+}

@@ -20,6 +20,7 @@ const Disconnected: FC = () => {
       if (event.defaultPrevented) {
         return;
       }
+      
       if (!wallet) {
         modalState.setVisible(true);
       } else {

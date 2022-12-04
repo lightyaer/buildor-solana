@@ -1,0 +1,25 @@
+{
+  "name": "Number #05",
+  "symbol": "BLD",
+  "description": "Collection of 5 stages of construction. This is the number 5/5.",
+  "image": "4.gif",
+  "attributes": [
+    {
+      "trait_type": "Site",
+      "value": "Eco Corp"
+    },
+    {
+      "trait_type": "Completion",
+      "value": "20%"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "video"
+  }
+}
